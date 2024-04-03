@@ -1,7 +1,10 @@
-Requires Selenium
+Requires: 
+-Selenium
 Install: pip install selenium
 
-Make sure the username.txt file is in the same location as GGInstaBot.py
+-Firefox Browser
+
+*Make sure the username.txt file is in the same location as GGInstaBot.py
 
 Usage: python3 GGInstaBot.py
 (Change the directory to where you have installed the script)
